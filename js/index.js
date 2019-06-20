@@ -5,4 +5,5 @@ const main = document.getElementbyID('main');
 
 main.addEventListener('click', function(event) {
   alert('I was clicked!');
-})
+});
+
